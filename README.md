@@ -1,0 +1,3 @@
+- npm i --save-dev jest
+- npm i selenium-webdriver
+- http://localhost/customer/form.html
